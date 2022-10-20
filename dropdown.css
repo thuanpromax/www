@@ -1,0 +1,15 @@
+.menu1 ul li ul.dropdown {
+    min-width: 100%; /* Set width of the dropdown */
+    background: #898989a2;
+    display: none;
+    position: absolute;
+    z-index: 999;
+    left: 0;
+}
+.menu1 ul li:hover ul.dropdown {
+    display: block; /* Display the dropdown */
+    
+}
+.menu1 ul li ul.dropdown li {
+    display: block;
+}

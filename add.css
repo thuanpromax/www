@@ -1,0 +1,11 @@
+.add{
+    background-color: white;
+    margin-top: 20;
+}
+.add div iframe{
+    width: 33%;
+}
+.add div p {
+    text-align: center;
+    font-size: 56px;
+}

@@ -1,0 +1,35 @@
+div>img {
+
+    width: 100%;
+    height: auto;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    background: black;
+    box-shadow: 2px 2px 2px blue;
+}
+div>img:hover{
+    box-shadow: 10px 10px 10px rgba(0, 153, 255, 0.514);
+    background-color: aqua;
+}
+.column{
+    width: 30%;
+    float: left;
+}
+.san-pham{
+    border-radius: 10px;
+    box-shadow: 5px gray;
+    padding:10px;
+    margin: 5px; 
+    text-align: center;
+}
+.san-pham.gia{  
+    border-radius: 10px;
+    box-shadow: 5px gray;
+    padding:10px;
+    margin: 5px; 
+    text-align: center;
+}
+del{
+    color: gray;
+}
